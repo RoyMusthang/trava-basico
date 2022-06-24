@@ -20,3 +20,9 @@ async function trava(textToSpamming) {
 
   return lines.length
 }
+
+trava(`
+só inserir o texto que deseja
+aqui, te aconselho a usar
+um livro inteiro ou roteiro de filme
+`)
